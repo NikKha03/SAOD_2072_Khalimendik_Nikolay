@@ -1,0 +1,11 @@
+C:\Users\mi\git-projects\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\mi\git-projects\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\mi\git-projects\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\mi\git-projects\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\mi\git-projects\Stack\Stack\obj\Debug\Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\mi\git-projects\Stack\Stack\obj\Debug\Stack.Properties.Resources.resources
+C:\Users\mi\git-projects\Stack\Stack\obj\Debug\Stack.csproj.GenerateResource.cache
+C:\Users\mi\git-projects\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\mi\git-projects\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\mi\git-projects\Stack\Stack\obj\Debug\Stack.pdb
+C:\Users\mi\git-projects\Stack\Stack\obj\Debug\SAOD_Stack.Form1.resources
