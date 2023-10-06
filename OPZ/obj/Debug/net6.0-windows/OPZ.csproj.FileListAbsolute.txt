@@ -1,0 +1,51 @@
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\bin\Debug\net6.0-windows\OPZ.exe
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\bin\Debug\net6.0-windows\OPZ.deps.json
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\bin\Debug\net6.0-windows\OPZ.runtimeconfig.json
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\bin\Debug\net6.0-windows\OPZ.dll
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\bin\Debug\net6.0-windows\OPZ.pdb
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\obj\Debug\net6.0-windows\OPZ.Form1.resources
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\obj\Debug\net6.0-windows\Обратная_польская_запись.Properties.Resources.resources
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\obj\Debug\net6.0-windows\OPZ.csproj.GenerateResource.cache
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\obj\Debug\net6.0-windows\OPZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\obj\Debug\net6.0-windows\OPZ.AssemblyInfoInputs.cache
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\obj\Debug\net6.0-windows\OPZ.AssemblyInfo.cs
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\obj\Debug\net6.0-windows\OPZ.csproj.CoreCompileInputs.cache
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\obj\Debug\net6.0-windows\OPZ.dll
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\obj\Debug\net6.0-windows\refint\OPZ.dll
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\obj\Debug\net6.0-windows\OPZ.pdb
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\obj\Debug\net6.0-windows\OPZ.genruntimeconfig.cache
+C:\Users\mi\OneDrive\Рабочий стол\Обратная польская запись\OPZ\obj\Debug\net6.0-windows\ref\OPZ.dll
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\bin\Debug\net6.0-windows\OPZ.exe
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\bin\Debug\net6.0-windows\OPZ.deps.json
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\bin\Debug\net6.0-windows\OPZ.runtimeconfig.json
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\bin\Debug\net6.0-windows\OPZ.dll
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\bin\Debug\net6.0-windows\OPZ.pdb
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\obj\Debug\net6.0-windows\OPZ.Form1.resources
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\obj\Debug\net6.0-windows\Обратная_польская_запись.Properties.Resources.resources
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\obj\Debug\net6.0-windows\OPZ.csproj.GenerateResource.cache
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\obj\Debug\net6.0-windows\OPZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\obj\Debug\net6.0-windows\OPZ.AssemblyInfoInputs.cache
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\obj\Debug\net6.0-windows\OPZ.AssemblyInfo.cs
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\obj\Debug\net6.0-windows\OPZ.csproj.CoreCompileInputs.cache
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\obj\Debug\net6.0-windows\OPZ.dll
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\obj\Debug\net6.0-windows\refint\OPZ.dll
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\obj\Debug\net6.0-windows\OPZ.pdb
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\obj\Debug\net6.0-windows\OPZ.genruntimeconfig.cache
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\OPZ\obj\Debug\net6.0-windows\ref\OPZ.dll
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\bin\Debug\net6.0-windows\OPZ.exe
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\bin\Debug\net6.0-windows\OPZ.deps.json
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\bin\Debug\net6.0-windows\OPZ.runtimeconfig.json
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\bin\Debug\net6.0-windows\OPZ.dll
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\bin\Debug\net6.0-windows\OPZ.pdb
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\obj\Debug\net6.0-windows\OPZ.Form1.resources
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\obj\Debug\net6.0-windows\Обратная_польская_запись.Properties.Resources.resources
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\obj\Debug\net6.0-windows\OPZ.csproj.GenerateResource.cache
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\obj\Debug\net6.0-windows\OPZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\obj\Debug\net6.0-windows\OPZ.AssemblyInfoInputs.cache
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\obj\Debug\net6.0-windows\OPZ.AssemblyInfo.cs
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\obj\Debug\net6.0-windows\OPZ.csproj.CoreCompileInputs.cache
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\obj\Debug\net6.0-windows\OPZ.dll
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\obj\Debug\net6.0-windows\refint\OPZ.dll
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\obj\Debug\net6.0-windows\OPZ.pdb
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\obj\Debug\net6.0-windows\OPZ.genruntimeconfig.cache
+C:\Users\mi\OneDrive\Рабочий стол\OPZ\obj\Debug\net6.0-windows\ref\OPZ.dll
